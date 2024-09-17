@@ -1,0 +1,3 @@
+Amount: 45.0, From: USD, To: BD TK, Result: 5274.45
+Amount: 50.0, From: USD, To: JPY, Result: 7825.0
+Amount: 50.0, From: USD, To: Peso, Result: 2904.5

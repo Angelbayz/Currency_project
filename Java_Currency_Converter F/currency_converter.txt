@@ -1,0 +1,10 @@
+Amount: 12.0, From: USD, To: BD TK, Result: 1406.52
+Amount: 12.0, From: USD, To: BD TK, Result: 1406.52
+Amount: 12.0, From: USD, To: BD TK, Result: 1406.52
+Amount: 12.0, From: JPY, To: BD TK, Result: 9.0
+Amount: 12.0, From: JPY, To: BD TK, Result: 9.0
+Amount: 12.0, From: JPY, To: BD TK, Result: 9.0
+Amount: 12.0, From: JPY, To: BD TK, Result: 9.0
+Amount: 12.0, From: JPY, To: BD TK, Result: 9.0
+Amount: 12.0, From: JPY, To: Peso, Result: 4.5600000000000005
+Amount: 12.0, From: JPY, To: Peso, Result: 4.5600000000000005
